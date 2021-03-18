@@ -4,4 +4,4 @@
 
 
 ## Skill :
- Python
+ Python , deep learning, machine learning
