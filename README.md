@@ -1,6 +1,6 @@
 ## Hi, I'm Saikumar Dandla 👋
 
-#### AI Engineer/Machine Learning Engineer with 2 years of experience in working with large data-driven projects using machine learning techniques, deep learning, data analysis, etc. I am seeking to utilize my skills in a position that focuses in developing innovative software tools.🚀
+#### AI Engineer/Machine Learning Engineer with 3.6 + years of experience in working with large data-driven projects using machine learning techniques, deep learning, data analysis, etc. I am seeking to utilize my skills in a position that focuses in developing innovative software tools.🚀
 
 
 ## Skill :
